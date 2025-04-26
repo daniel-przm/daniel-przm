@@ -21,5 +21,10 @@ Soy @daniel-przm, ingeniero y profesor de informática especializado en innovaci
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
+## 📊 Mis lenguajes más usados
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-przm&layout=compact&count_private=true)](https://github.com/TU_USUARIO)
+
+
 ### Puedes contactar conmigo en:
 <a href="https://linkedin.com/in/danielperezm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielperezm" height="30" width="40" /></a>
